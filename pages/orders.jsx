@@ -12,7 +12,7 @@ const orders = () => {
         <link rel="icon" href="/icons8-lightning-bolt-96.png" />
       </Head>
       <div className="bg-gray-100 min-h-screen">
-        <div className="flex justify-between px-4 pt-4">
+        <div className="flex justify-between px-4 pt-4 font-semibold">
           <h2>Orders</h2>
           <h2>Welcome Back, Chiranth</h2>
         </div>
